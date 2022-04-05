@@ -31,6 +31,14 @@ https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 ### What is Open Source Intelligence - OSINT
 https://www.sentinelone.com/cybersecurity-101/open-source-intelligence-osint/
 
+### The Dark Web
+The hidden collective of internet sites only accessible by a specialized web browser. It is used for keeping internet activity anonymous and private, which can be helpful in both legal and illegal applications.
+https://www.kaspersky.com/resource-center/threats/deep-web
+
+### Data Anonymization
+The process of protecting private or sensitive information by erasing or encrypting identifiers that connect an individual to stored data.
+https://www.imperva.com/learn/data-security/anonymization/#:~:text=Data%20anonymization%20is%20the%20process,an%20individual%20to%20stored%20data.
+
 ### Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks
 https://blog.aquasec.com/python-ransomware-jupyter-notebook#amp_tf=From%20%251%24s&aoh=16486798325083&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fblog.aquasec.com%2Fpython-ransomware-jupyter-notebook
 ### Attack Flow — Beyond Atomic Behaviors | by Jon Baker | MITRE-Engenuity
