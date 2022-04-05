@@ -7,9 +7,11 @@ https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
 ### The OSINT Framework
 The framework provides links to a large collection of resources for a huge variety of tasks from harvesting email addresses to searching social media or the dark web.
+
 https://osintframework.com/
 ### The MITRE Att&ck Framework
 The MITRE ATT&CK framework is a comprehensive matrix of tactics and techniques used by threat hunters, red teamers, and defenders to better classify attacks and assess an organization's risk.
+
 https://attack.mitre.org/
 ### The Threat Intelligence Lifecycle
 A process to transform raw data into finished intelligence for decision making and action. It guides a cybersecurity team through the development and execution of an effective threat intelligence program.
