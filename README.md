@@ -3,12 +3,26 @@ Report (with sources) on the Colonial Pipeline Ransomware attack, the Malware, t
 
 https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
+## Various Frameworks and Lifecycles
+
+### The OSINT Framework
+https://osintframework.com/
+### The Threat Intelligence Lifecycle
+A process to transform raw data into finished intelligence for decision making and action. It guides a cybersecurity team through the development and execution of an effective threat intelligence program.
+https://cyware.com/educational-guides/cyber-threat-intelligence/what-is-the-threat-intelligence-lifecycle-9981
+### The Diamond Model
+An approach employed by several information security professionals to authenticate and track cyber threats. According to this approach, every incident can be depicted as a diamond.
+https://cyware.com/educational-guides/cyber-threat-intelligence/what-is-the-diamond-model-of-intrusion-analysis-5f02
+### The Cyber Kill Chain
+A cybersecurity model created by Lockheed Martin that traces the stages of a cyber-attack, identifies vulnerabilities, and helps security teams to stop the attacks at every stage of the chain.
+https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+###
+
 ## Articles I've Read to Become more Familiar with Cybersecurity and its Processes
 
 ### What is Open Source Intelligence - OSINT
 https://www.sentinelone.com/cybersecurity-101/open-source-intelligence-osint/
-### The OSINT Framework
-https://osintframework.com/
+
 ### Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks
 https://blog.aquasec.com/python-ransomware-jupyter-notebook#amp_tf=From%20%251%24s&aoh=16486798325083&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fblog.aquasec.com%2Fpython-ransomware-jupyter-notebook
 ### Attack Flow — Beyond Atomic Behaviors | by Jon Baker | MITRE-Engenuity
