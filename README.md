@@ -5,8 +5,10 @@ https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
 ## Articles I've Read to Become more Familiar with Cybersecurity and its Processes
 
-### What is Open Source Intellignece - OSINT
+### What is Open Source Intelligence - OSINT
 https://www.sentinelone.com/cybersecurity-101/open-source-intelligence-osint/
+### The OSINT Framework
+https://osintframework.com/
 ### Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks
 https://blog.aquasec.com/python-ransomware-jupyter-notebook#amp_tf=From%20%251%24s&aoh=16486798325083&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fblog.aquasec.com%2Fpython-ransomware-jupyter-notebook
 ### Attack Flow — Beyond Atomic Behaviors | by Jon Baker | MITRE-Engenuity
