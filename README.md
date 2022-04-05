@@ -29,7 +29,7 @@ https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 ## Articles I've Read to Become more Familiar with Cybersecurity and its Processes
 
 ### Open Source Intelligence - OSINT
-Open source intelligence is the process of collecting and analyzing publicly available information that can be exploited by adversaries.
+The process of collecting and analyzing publicly available information that can be exploited by adversaries.
 
 https://www.sentinelone.com/cybersecurity-101/open-source-intelligence-osint/
 
