@@ -34,9 +34,9 @@ Open source intelligence is the process of collecting and analyzing publicly ava
 https://www.sentinelone.com/cybersecurity-101/open-source-intelligence-osint/
 
 ### The Dark Web
-The hidden collective of internet sites only accessible by a specialized web browser. It is used for keeping internet activity anonymous and private, which can be helpful in both legal and illegal applications.
+An unregulated network of unindexed web content where activity is made anonymous through a variety of encryption and routing techniques. To access, users need a special browser, most commonly Tor.
 
-https://www.kaspersky.com/resource-center/threats/deep-web
+https://www.crowdstrike.com/cybersecurity-101/the-dark-web-explained/
 
 ### Data Anonymization
 The process of protecting private or sensitive information by erasing or encrypting identifiers that connect an individual to stored data.
