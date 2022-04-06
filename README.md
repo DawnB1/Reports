@@ -34,7 +34,7 @@ The process of collecting and analyzing publicly available information that can 
 https://www.sentinelone.com/cybersecurity-101/open-source-intelligence-osint/
 
 ### The Dark Web
-An unregulated network of unindexed web content where activity is made anonymous through a variety of encryption and routing techniques. To access, users need a special browser, most commonly Tor.
+An unregulated network of unindexed web content where activity is made anonymous through a variety of encryption and routing techniques. To access, users need a special browser, and they most commonly use Tor.
 
 https://www.crowdstrike.com/cybersecurity-101/the-dark-web-explained/
 
