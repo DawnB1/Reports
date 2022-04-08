@@ -1,9 +1,9 @@
-# Report on the Colonial Pipeline Ransomware attack
+# Report on the Colonial Pipeline Ransomware Attack
 Report (with sources) on the Colonial Pipeline Ransomware attack, the Malware, threat actors, response efforts, and additional developments and effects of the cyber-attack that have had an impact on society and the industry.
 
 https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
-## Various Frameworks and Lifecycles
+## Various Cyber Security Frameworks and Lifecycles
 
 ### The OSINT Framework
 The framework provides links to a large collection of resources for a huge variety of tasks from harvesting email addresses to searching social media or the dark web.
