@@ -1,4 +1,31 @@
 # Information Security Tenets, Terms, etc.
+## Information Security (InfoSec): The Complete Guide
+
+https://www.exabeam.com/information-security/information-security/
+
+This article covers the following:
+
+What is Information Security?
+
+Information Security vs Cybersecurity
+
+Information Security Goals in Organizations
+
+Types of Information Security: Application Security, Infrastructure Security, Cloud Security, Cryptography, Incident response, Vulnerability Management, Disaster recovery
+
+What a CISO does
+
+Definition and Types of Security Operations Centers (SOC)
+
+Common Information Security Risks: Social Engineering Attacks, Advanced Persistent Threats (APT), Insider Threats, Cryptojacking, Distributed Denial of Service (DDoS)
+Ransomware, & Man-in-the-Middle (MitM) Attacks
+
+Information security technologies: Firewalls, Security Incident and Event Management (SIEM), Data loss prevention (DLP), Intrusion detection system (IPS),
+User behavioral analytics (UBA), Blockchain cybersecurity, Endpoint detection and response (EDR), Cloud security posture management (CSPM)
+
+Examples of Information Security in the Real World: DLP at Berkshire Bank, SOC at Grant Thornton, Incident Response at WSU, Information security certifications
+Best Practices
+
 
 What should a risk profile include?
 A risk profile should include:
