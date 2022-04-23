@@ -37,6 +37,7 @@ https://osintframework.com/
 The MITRE ATT&CK framework is a comprehensive matrix of tactics and techniques used by threat hunters, red teamers, and defenders to better classify attacks and assess an organization's risk.
 
 https://attack.mitre.org/
+
 ### The Threat Intelligence Lifecycle
 A process to transform raw data into finished intelligence for decision making and action. It guides a cybersecurity team through the development and execution of an effective threat intelligence program.
 
