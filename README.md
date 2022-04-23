@@ -31,7 +31,7 @@ https://blog.aquasec.com/python-ransomware-jupyter-notebook
 
 https://securityonline.info/nginx-zero-day-rce-vulnerability-alert/
 
-## Various Cyber Security Frameworks and Lifecycles
+# Various Cyber Security Frameworks and Lifecycles
 
 ### The OSINT Framework
 The framework provides links to a large collection of resources for a huge variety of tasks from harvesting email addresses to searching social media or the dark web.
