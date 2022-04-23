@@ -55,7 +55,7 @@ A cybersecurity model created by Lockheed Martin that traces the stages of a cyb
 
 https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
-## Articles I've Read to Become more Familiar with Cybersecurity and its Processes
+# Articles I've Read to Become more Familiar with Cybersecurity and its Processes
 
 ### Open Source Intelligence - OSINT
 The process of collecting and analyzing publicly available information that can be exploited by adversaries. The lifecycle consists of five setps: identifying, harvesting, processing, analyzing, and reporting.
