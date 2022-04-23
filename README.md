@@ -21,6 +21,9 @@ https://www.wired.com/story/ronin-hack-lazarus-tmobile-breach-data-malware-teleg
 
 https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-lurked-in-a-us-gov-network-for-months/
 
+### Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks
+https://blog.aquasec.com/python-ransomware-jupyter-notebook#amp_tf=From%20%251%24s&aoh=16486798325083&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fblog.aquasec.com%2Fpython-ransomware-jupyter-notebook
+
 # Zero Day Vulnerabilities
 
 **Nginx Zero Day Vulnerability**
@@ -68,8 +71,6 @@ The process of protecting private or sensitive information by erasing or encrypt
 
 https://www.imperva.com/learn/data-security/anonymization/#:~:text=Data%20anonymization%20is%20the%20process,an%20individual%20to%20stored%20data.
 
-### Threat Alert: First Python Ransomware Attack Targeting Jupyter Notebooks
-https://blog.aquasec.com/python-ransomware-jupyter-notebook#amp_tf=From%20%251%24s&aoh=16486798325083&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fblog.aquasec.com%2Fpython-ransomware-jupyter-notebook
 ### Attack Flow — Beyond Atomic Behaviors | by Jon Baker | MITRE-Engenuity
 https://medium.com/mitre-engenuity/attack-flow-beyond-atomic-behaviors-c646675cc793
 ### Create custom analytics rules to detect threats with Microsoft Sentinel
