@@ -1,5 +1,5 @@
 # Report on the Colonial Pipeline Ransomware Attack
-Report (with sources) on the Colonial Pipeline Ransomware attack, propogated by the Revel Ransomware Group. The Malware, threat actors, response efforts, and additional developments and effects of the cyber-attack that have had an impact on society and the industry.
+Report (with sources) on the Colonial Pipeline Ransomware attack, propogated by the Revel Ransomware Group. The Malware, threat actors, response efforts, and additional developments and effects of the Cyber Attack that have had an impact on society and the industry.
 
 https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
