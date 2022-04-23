@@ -3,13 +3,29 @@ Report (with sources) on the Colonial Pipeline Ransomware attack, propogated by 
 
 https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
-# Revel Ransomware Group (Responsible for Colonial Pipeline Hack) may be Back
+# Other Ransomware Attacks
+
+Revel Ransomware Group (Responsible for Colonial Pipeline Hack) may be Back
 
 https://clark.com/protect-your-identity/cash-app-data-breach/
 
 The revelation about the data breach is detailed in a U.S. Securities and Exchange Commission (SEC) report filed on behalf of Block, the parent company of Cash App.
 
 https://www.sec.gov/ix?doc=/Archives/edgar/data/0001512673/000119312522095215/d343042d8k.htm
+
+Ronin Hack
+
+https://www.wired.com/story/ronin-hack-lazarus-tmobile-breach-data-malware-telegram/
+
+Lockbit Ransomware Gang Lurked in a US Gov Network For Months
+
+https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-lurked-in-a-us-gov-network-for-months/
+
+# Zero Day Vulnerabilities
+
+Nginx Zero Day Vulnerability
+
+https://securityonline.info/nginx-zero-day-rce-vulnerability-alert/
 
 ## Various Cyber Security Frameworks and Lifecycles
 
