@@ -3,7 +3,7 @@ Report (with sources) on the Colonial Pipeline Ransomware attack, propogated by 
 
 https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
-# Revel Ransomware Group may be Back
+# Revel Ransomware Group (Responsible for Colonial Pipeline Hack) may be Back
 
 https://clark.com/protect-your-identity/cash-app-data-breach/
 
