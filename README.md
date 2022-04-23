@@ -3,6 +3,14 @@ Report (with sources) on the Colonial Pipeline Ransomware attack, the Malware, t
 
 https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
+# Revel Ransomware Group may be Back
+
+https://clark.com/protect-your-identity/cash-app-data-breach/
+
+The revelation about the data breach is detailed in a U.S. Securities and Exchange Commission (SEC) report filed on behalf of Block, the parent company of Cash App.
+
+https://www.sec.gov/ix?doc=/Archives/edgar/data/0001512673/000119312522095215/d343042d8k.htm
+
 ## Various Cyber Security Frameworks and Lifecycles
 
 ### The OSINT Framework
