@@ -3,7 +3,7 @@ Report (with sources) on the Colonial Pipeline Ransomware attack, propogated by 
 
 https://docs.google.com/document/d/17kx5Fansvd8qryBY_ftdwRET2f5LszQV/view
 
-# Other Ransomware Attacks
+# Other Ransomware/Malware Attacks
 
 **Revel Ransomware Group (Responsible for Colonial Pipeline Hack) may be Back**
 
@@ -25,7 +25,15 @@ https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-lurked-in
 
 https://blog.aquasec.com/python-ransomware-jupyter-notebook
 
+**Chinese Hackers use VLC to Propagate Malware**
+
+https://www.androidpolice.com/hackers-vlc-malware/
+
 # Zero Day Vulnerabilities
+
+**Mandiant says 2021 was a Record Year for Zero Day Exploits**
+
+https://www.theregister.com/2022/04/23/zeroday_exploits_2021/
 
 **Nginx Zero Day Vulnerability**
 
