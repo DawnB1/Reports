@@ -49,6 +49,7 @@ https://thehackernews.com/2022/04/researchers-detail-bug-that-could.html
 The framework provides links to a large collection of resources for a huge variety of tasks from harvesting email addresses to searching social media or the dark web.
 
 https://osintframework.com/
+
 ### The MITRE Att&ck Framework  
 The MITRE ATT&CK framework is a comprehensive matrix of tactics and techniques used by threat hunters, red teamers, and defenders to better classify attacks and assess an organization's risk.
 
