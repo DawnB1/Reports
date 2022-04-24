@@ -88,8 +88,9 @@ HIDS is host intrusion detection system and NIDS is network intrusion detection 
 
 What are the different levels of data classification and why are they required?  
 Data needs to be segregated into various categories so that its severity can be defined, without this segregation a piece of information can be critical for one but not so critical for others. There can be various levels of data classification depending on organization to organization, in broader terms data can be classified into:
-• Top secret – Its leakage can cause drastic effect to the organization, e.g. trade secrets etc.
-• Confidential – Internal to the company e.g. policy and processes.
+
+• Top secret – Its leakage can cause drastic effect to the organization, e.g. trade secrets etc.  
+• Confidential – Internal to the company e.g. policy and processes.  
 • Public – Publicly available, like newsletters etc.
 
 **What is port scanning?**  
