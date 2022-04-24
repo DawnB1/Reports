@@ -55,7 +55,7 @@ The MITRE ATT&CK framework is a comprehensive matrix of tactics and techniques u
 
 https://attack.mitre.org/
 
-### The CIA Triad   
+### The CIA Triad     
 The three letters in "CIA triad" stand for confidentiality, integrity, and availability. The CIA triad is a common, respected model that forms the basis for the development of security systems and policies.
 
 **Confidentiality** involves the efforts of an organization to make sure data is kept secret or private. To accomplish this, access to information must be controlled to prevent the unauthorized sharing of data—whether intentional or accidental. A key component of maintaining confidentiality is making sure that people without proper authorization are prevented from accessing assets important to your business. Conversely, an effective system also ensures that those who need to have access have the necessary privileges.
