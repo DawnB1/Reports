@@ -140,6 +140,11 @@ https://www.securitymetrics.com/blog/pentesting-vs-vulnerability-scanning-whats-
 **When do you use tracert/traceroute?**  
 In case you can’t ping the final destination, tracert will help to identify where the connection stops or gets broken, whether it is firewall, ISP, router etc.
 
+**What is a Black hat, white hat and Grey hat hacker?**  
+Black hat hackers are those who hack without authority.  
+White hat hackers are authorized to perform a hacking attempt under signed NDA.  
+Grey hat hackers are white hat hackers which sometimes perform unauthorized activities.
+
 **What is DDoS and its mitigation?**  
 DDoS stands for distributed denial of service. When a network/server/application is flooded with large number of requests which it is not designed to handle making the server unavailable to the legitimate requests. The requests can come from different not related sources hence it is a distributed denial of service attack. It can be mitigated by analyzing and filtering the traffic in the scrubbing centers. The scrubbing centers are centralized data cleansing station wherein the traffic to a website is analyzed and the malicious traffic is removed.
 
