@@ -55,7 +55,7 @@ The MITRE ATT&CK framework is a comprehensive matrix of tactics and techniques u
 
 https://attack.mitre.org/
 
-### The CIA Triad  
+### The CIA Triad   
 The three letters in "CIA triad" stand for confidentiality, integrity, and availability. The CIA triad is a common, respected model that forms the basis for the development of security systems and policies.
 
 **Confidentiality** involves the efforts of an organization to make sure data is kept secret or private. To accomplish this, access to information must be controlled to prevent the unauthorized sharing of data—whether intentional or accidental. A key component of maintaining confidentiality is making sure that people without proper authorization are prevented from accessing assets important to your business. Conversely, an effective system also ensures that those who need to have access have the necessary privileges.
@@ -85,6 +85,12 @@ https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 # Cyber Security Terms and Tenets
 **HIDS vs NIDS and which one is better and why?**  
 HIDS is host intrusion detection system and NIDS is network intrusion detection system. Both the systems work on the similar lines. It’s just that the placement in different. HIDS is placed on each host whereas NIDS is placed in the network. For an enterprise, NIDS is preferred as HIDS is difficult to manage, plus it consumes processing power of the host as well.
+
+What are the different levels of data classification and why are they required?  
+Data needs to be segregated into various categories so that its severity can be defined, without this segregation a piece of information can be critical for one but not so critical for others. There can be various levels of data classification depending on organization to organization, in broader terms data can be classified into:
+• Top secret – Its leakage can cause drastic effect to the organization, e.g. trade secrets etc.
+• Confidential – Internal to the company e.g. policy and processes.
+• Public – Publicly available, like newsletters etc.
 
 **What is port scanning?**  
 Port scanning is the process of sending messages in order to gather information about the network, system etc. by analyzing the response received.
