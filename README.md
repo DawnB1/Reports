@@ -83,15 +83,39 @@ A cybersecurity model created by Lockheed Martin that traces the stages of a cyb
 https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
 # Cyber Security Terms and Tenets
+**Explain risk, vulnerability and threat?**  
+Vulnerability (weakness) is a gap in the protection efforts of a system.
+
+A threat is an attacker who exploits that weakness. 
+
+Risk is the measure of potential loss when that the vulnerability is exploited. by the threat e.g. Default username and password for a server – An attacker can easily crack into this server and compromise it.
+
+**What is a Security Misconfiguration?**  
+Security misconfiguration is a vulnerability when a device/application/network is configured in away which can be exploited by an attacker to take advantage of it. This can be as simple as leaving the default username/password unchanged or too simple for device accounts etc.
+
+**What is the difference between Asymmetric and Symmetric encryption and which one is better?**  
+Symmetric encryption uses the same key for both encryption and decryption, while Asymmetric encryption uses different keys for encryption and decryption. Symmetric is usually much faster but the key needs to be transferred over an unencrypted channel.
+
+Asymmetric on the other hand is more secure but slow. Hence, a hybrid approach should be preferred. Setting up a channel using asymmetric encryption and then sending the data using symmetric process.
+
+**What is CSRF?**  
+Cross Site Request Forgery is a web application vulnerability in which the server does not check whether the request came from a trusted client or not. The request is just processed directly. It can be further followed by the ways to detect this, examples and countermeasures.
+
 **HIDS vs NIDS and which one is better and why?**  
 HIDS is host intrusion detection system and NIDS is network intrusion detection system. Both the systems work on the similar lines. It’s just that the placement in different. HIDS is placed on each host whereas NIDS is placed in the network. For an enterprise, NIDS is preferred as HIDS is difficult to manage, plus it consumes processing power of the host as well.
 
-What are the different levels of data classification and why are they required?  
+**What are the different levels of data classification and why are they required?**  
 Data needs to be segregated into various categories so that its severity can be defined, without this segregation a piece of information can be critical for one but not so critical for others. There can be various levels of data classification depending on organization to organization, in broader terms data can be classified into:
 
 • Top secret – Its leakage can cause drastic effect to the organization, e.g. trade secrets etc.  
 • Confidential – Internal to the company e.g. policy and processes.  
 • Public – Publicly available, like newsletters etc.
+
+**What is the difference between policies, processes and guidelines?**  
+As security policy defines the security objectives and the security framework of an organization. A process is a detailed step by step how to document that specifies the exact action which will be necessary to implement important security mechanism. Guidelines are recommendations which can be customized and used in the creation of procedures.
+
+**What is compliance?**  
+Abiding by a set of standards set by a government/Independent party/organization. E.g. An industry which stores, processes or transmits payment related information needs to be compliant with PCI DSS (Payment card Industry Data Security Standard). Other compliance examples can be an organization complying with its own policies.
 
 **What is port scanning?**  
 Port scanning is the process of sending messages in order to gather information about the network, system etc. by analyzing the response received.
