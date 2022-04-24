@@ -54,6 +54,17 @@ The MITRE ATT&CK framework is a comprehensive matrix of tactics and techniques u
 
 https://attack.mitre.org/
 
+### The CIA Triad
+The three letters in "CIA triad" stand for confidentiality, integrity, and availability. The CIA triad is a common, respected model that forms the basis for the development of security systems and policies.
+
+Confidentiality involves the efforts of an organization to make sure data is kept secret or private. To accomplish this, access to information must be controlled to prevent the unauthorized sharing of data—whether intentional or accidental. A key component of maintaining confidentiality is making sure that people without proper authorization are prevented from accessing assets important to your business. Conversely, an effective system also ensures that those who need to have access have the necessary privileges.
+
+Integrity involves making sure your data is trustworthy and free from tampering. The integrity of your data is maintained only if the data is authentic, accurate, and reliable. Compromising integrity is often done intentionally. An attacker may bypass an intrusion detection system (IDS), change file configurations to allow unauthorized access, or alter the logs kept by the system to hide the attack. Integrity may also be violated by accident. Someone may accidentally enter the wrong code or make another kind of careless mistake. Also, if the company’s security policies, protections, and procedures are inadequate, integrity can be violated without any one person in the organization accountable for the blame. To protect the integrity of your data, you can use hashing, encryption, digital certificates, or digital signatures. For websites, you can employ trustworthy certificate authorities (CAs) that verify the authenticity of your website so visitors know they are getting the site they intended to visit. 
+
+
+
+https://www.fortinet.com/resources/cyberglossary/cia-triad#:~:text=The%20three%20letters%20in%20%22CIA,of%20security%20systems%20and%20policies
+
 ### The Threat Intelligence Lifecycle
 A process to transform raw data into finished intelligence for decision making and action. It guides a cybersecurity team through the development and execution of an effective threat intelligence program.
 
@@ -89,6 +100,12 @@ DDoS stands for distributed denial of service. When a network/server/application
 
 **How do you handle Antivirus alerts?**  
 Check the policy for the AV and then the alert. If the alert is for a legitimate file then it can be whitelisted and if this is malicious file then it can be quarantined/deleted. The hash of the file can be checked for reputation on various websites like virus total, malwares.com etc. AV needs to be fine-tuned so that the alerts can be reduced.
+
+**What is a false positive and false negative in case of IDS?**  
+When the device generated an alert for an intrusion which has actually not happened: this is false positive and if the device has not generated any alert and the intrusion has actually happened, this is the case of a false negative.
+
+**Is a false positive or a false negative more acceptable?**  
+False positives are more acceptable. False negatives will lead to intrusions happening without getting noticed.
 
 # Articles I've Read to Become more Familiar with Cybersecurity Processes
 
