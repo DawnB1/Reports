@@ -93,6 +93,10 @@ Risk is the measure of potential loss when that the vulnerability is exploited. 
 **What is a Security Misconfiguration?**  
 Security misconfiguration is a vulnerability when a device/application/network is configured in away which can be exploited by an attacker to take advantage of it. This can be as simple as leaving the default username/password unchanged or too simple for device accounts etc.
 
+**What is the difference between encryption and hashing?**  
+Encryption is reversible whereas hashing is irreversible. Hashing can be cracked using rainbow tables and collision attacks but is not reversible.  
+Encryption ensures confidentiality whereas hashing ensures Integrity.
+
 **What is the difference between Asymmetric and Symmetric encryption and which one is better?**  
 Symmetric encryption uses the same key for both encryption and decryption, while Asymmetric encryption uses different keys for encryption and decryption. Symmetric is usually much faster but the key needs to be transferred over an unencrypted channel.
 
