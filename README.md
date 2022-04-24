@@ -105,7 +105,7 @@ Cross Site Request Forgery is a web application vulnerability in which the serve
 IDS is an intrusion detection system whereas an IPS is an intrusion prevention system.  
 IDS will just detect the intrusion and will leave the rest to the administrator for further action.  
 An IPS will detect the intrusion and will take further action to prevent the intrusion.  
-Another difference is the positioning of the devices in the network. Although they work on the same basic concept but theplacement is different.
+Another difference is the positioning of the devices in the network. Although they work on the same basic concept but the placement is different.
 
 **HIDS vs NIDS and which one is better and why?**  
 HIDS is host intrusion detection system and NIDS is network intrusion detection system. Both the systems work on the similar lines. It’s just that the placement in different. HIDS is placed on each host whereas NIDS is placed in the network. For an enterprise, NIDS is preferred as HIDS is difficult to manage, plus it consumes processing power of the host as well.
