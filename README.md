@@ -68,30 +68,27 @@ A cybersecurity model created by Lockheed Martin that traces the stages of a cyb
 https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
 # Cyber Security Terms and Tenets
-HIDS vs NIDS and which one is better and why?
+HIDS vs NIDS and which one is better and why?  
 HIDS is host intrusion detection system and NIDS is network intrusion detection system. Both the systems work on the similar lines. It’s just that the placement in different. HIDS is placed on each host whereas NIDS is placed in the network. For an enterprise, NIDS is preferred as HIDS is difficult to manage, plus it consumes processing power of the host as well.
 
-What is port scanning?
+What is port scanning?  
 Port scanning is the process of sending messages in order to gather information about the network, system etc. by analyzing the response received.
 
-What is the difference between a VA (Vulnerability Assessment) and a PT (Penetration Test)?
+What is the difference between a VA (Vulnerability Assessment) and a PT (Penetration Test)?  
 Vulnerability Assessments assess computers, systems, and networks for security weaknesses, also known as vulnerabilities. These scans are typically automated and give a beginning look at what could possibly be exploited. A penetration test attempts to actively exploit weaknesses in an environment. While a vulnerability scan can be automated, a penetration test requires various levels of expertise.
 
 A penetration test simulates a hacker attempting to get into a business system through hands-on research and the exploitation of vulnerabilities. Actual analysts, often called ethical hackers, search for vulnerabilities and then try to prove that they can be exploited. Using methods like password cracking, buffer overflow, and SQL injection, they attempt to compromise and extract data from a network in a non damaging way. Penetration tests are an extremely detailed and effective approach to finding and remediating vulnerabilities in software applications and networks.
 
 https://www.securitymetrics.com/blog/pentesting-vs-vulnerability-scanning-whats-difference
 
-When do you use tracert/traceroute?
+When do you use tracert/traceroute?  
 In case you can’t ping the final destination, tracert will help to identify where the connection stops or gets broken, whether it is firewall, ISP, router etc.
 
-What is DDoS and its mitigation?
+What is DDoS and its mitigation?  
 DDoS stands for distributed denial of service. When a network/server/application is flooded with large number of requests which it is not designed to handle making the server unavailable to the legitimate requests. The requests can come from different not related sources hence it is a distributed denial of service attack. It can be mitigated by analyzing and filtering the traffic in the scrubbing centers. The scrubbing centers are centralized data cleansing station wherein the traffic to a website is analyzed and the malicious traffic is removed.
 
-How do you handle Antivirus alerts?
-Check the policy for the AV and then the alert. If the alert is for a legitimate file then it can be
-whitelisted and if this is malicious file then it can be quarantined/deleted. The hash of the file can
-be checked for reputation on various websites like virus total, malwares.com etc. AV needs to be
-fine-tuned so that the alerts can be reduced.
+How do you handle Antivirus alerts?  
+Check the policy for the AV and then the alert. If the alert is for a legitimate file then it can be whitelisted and if this is malicious file then it can be quarantined/deleted. The hash of the file can be checked for reputation on various websites like virus total, malwares.com etc. AV needs to be fine-tuned so that the alerts can be reduced.
 
 # Articles I've Read to Become more Familiar with Cybersecurity Processes
 
