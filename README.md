@@ -29,7 +29,7 @@ https://blog.aquasec.com/python-ransomware-jupyter-notebook
 
 https://www.androidpolice.com/hackers-vlc-malware/
 
-# Zero Day Vulnerabilities
+# Vulnerabilities (Zero Day and Others) 
 
 **Mandiant says 2021 was a Record Year for Zero Day Exploits**
 
@@ -38,6 +38,10 @@ https://www.theregister.com/2022/04/23/zeroday_exploits_2021/
 **Nginx Zero Day Vulnerability**
 
 https://securityonline.info/nginx-zero-day-rce-vulnerability-alert/
+
+**Researchers Detail Bug That Could Paralyze Snort Intrusion Detection System**
+
+https://thehackernews.com/2022/04/researchers-detail-bug-that-could.html
 
 # Various Cyber Security Frameworks and Lifecycles
 
