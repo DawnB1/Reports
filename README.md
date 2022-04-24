@@ -45,16 +45,16 @@ https://thehackernews.com/2022/04/researchers-detail-bug-that-could.html
 
 # Various Cyber Security Frameworks and Lifecycles
 
-### The OSINT Framework
+### The OSINT Framework  
 The framework provides links to a large collection of resources for a huge variety of tasks from harvesting email addresses to searching social media or the dark web.
 
 https://osintframework.com/
-### The MITRE Att&ck Framework
+### The MITRE Att&ck Framework  
 The MITRE ATT&CK framework is a comprehensive matrix of tactics and techniques used by threat hunters, red teamers, and defenders to better classify attacks and assess an organization's risk.
 
 https://attack.mitre.org/
 
-### The CIA Triad
+### The CIA Triad  
 The three letters in "CIA triad" stand for confidentiality, integrity, and availability. The CIA triad is a common, respected model that forms the basis for the development of security systems and policies.
 
 **Confidentiality** involves the efforts of an organization to make sure data is kept secret or private. To accomplish this, access to information must be controlled to prevent the unauthorized sharing of data—whether intentional or accidental. A key component of maintaining confidentiality is making sure that people without proper authorization are prevented from accessing assets important to your business. Conversely, an effective system also ensures that those who need to have access have the necessary privileges.
@@ -68,15 +68,15 @@ To ensure availability, organizations can use redundant networks, servers, and a
 
 https://www.fortinet.com/resources/cyberglossary/cia-triad#:~:text=The%20three%20letters%20in%20%22CIA,of%20security%20systems%20and%20policies
 
-### The Threat Intelligence Lifecycle
+### The Threat Intelligence Lifecycle  
 A process to transform raw data into finished intelligence for decision making and action. It guides a cybersecurity team through the development and execution of an effective threat intelligence program.
 
 https://cyware.com/educational-guides/cyber-threat-intelligence/what-is-the-threat-intelligence-lifecycle-9981
-### The Diamond Model
+### The Diamond Model  
 An approach employed by several information security professionals to authenticate and track cyber threats. According to this approach, every incident can be depicted as a diamond.
 
 https://cyware.com/educational-guides/cyber-threat-intelligence/what-is-the-diamond-model-of-intrusion-analysis-5f02
-### The Cyber Kill Chain
+### The Cyber Kill Chain  
 A cybersecurity model created by Lockheed Martin that traces the stages of a cyber-attack, identifies vulnerabilities, and helps security teams to stop the attacks at every stage of the chain.
 
 https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
