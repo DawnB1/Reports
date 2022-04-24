@@ -69,7 +69,7 @@ To ensure availability, organizations can use redundant networks, servers, and a
 
 https://www.fortinet.com/resources/cyberglossary/cia-triad#:~:text=The%20three%20letters%20in%20%22CIA,of%20security%20systems%20and%20policies
 
-### The Threat Intelligence Lifecycle  
+### The Threat Intelligence Lifecycle    
 A process to transform raw data into finished intelligence for decision making and action. It guides a cybersecurity team through the development and execution of an effective threat intelligence program.
 
 https://cyware.com/educational-guides/cyber-threat-intelligence/what-is-the-threat-intelligence-lifecycle-9981
