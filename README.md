@@ -43,6 +43,45 @@ https://securityonline.info/nginx-zero-day-rce-vulnerability-alert/
 
 https://thehackernews.com/2022/04/researchers-detail-bug-that-could.html
 
+# SPECIALIZED SKILLS AND KNOWLEDGE VIA COURSEWORK: 
+
+### Completed courses and Virtual Lab activities within Pluralsight, Cybrary and its Lab Environments that gave knowledge of and hands-on experience with Security tenets, terms, and daily Security duties, such as: 
+
+**The Security First Responder program (CFR-210):** Approved by The United States Department of Defense (DoD) Security Certification Program and provides knowledge of and familiarity with Security Threat Detection and Response, ensuring information systems’ CIA, The CIA Triad and Risk Assessment. 
+
+### Virtual Lab activities within Pluralsight, Cybrary and its Lab Environments:
+Used the MITRE Att&ck Navigator to quantify/classify threat actor actions from the point of view of adversary. 
+
+Used Nessus to try and prevent network attacks by identifying the vulnerabilities and configuration issues that hackers use to penetrate a network. 
+
+Used Snort to monitor network traffic for potential IOA/IOC. 
+
+### Security Tenets and Terms
+
+**Open-Source Intelligence:** OSINT is the process of collecting and analyzing publicly available information that can be exploited by adversaries. The OSINT Framework is a vast collection of resources for a variety of tasks. 
+
+**Hunting** Indicators of Attack (IOA's), Indicators of Compromise (IOC's), Advanced Persistent Threats; Identifying Tactics, Techniques, and Procedures (TTP's); (CRIT's) Collaborative Research into Threats. 
+
+**Threat Classifications:** Unknown-Unknowns, Known-Unknowns, and Known-Knowns. 
+
+**Threat Actors:** Organized Cyber Criminals, APT Groups, Privileged Insider, Hacktivists, Script Kiddies. 
+
+**Threat Vectors:** Programming (Malware, viruses, Trojans, etc.); Social Engineering (phishing, poor password) 
+
+**Attack Vectors:** Phishing, Malware, Ransomware, DDOS Attacks, Compromised Credentials. 
+
+**The Cyber Kill Chain:** Reconnaissance, weaponization, delivery, installation, exploitation, command & control, and actions on objectives. 
+
+**The Diamond Model:** Adversary, Capability, Victim, Infrastructure. 
+
+**The Threat Intel Lifecycle:** Planning and direction, collection, processing and exploitation, analysis and production, dissemination and integration, feedback. 
+
+**Anonymization:** Protecting private or sensitive information by erasing or encrypting identifiers that connect an individual to stored data. 
+
+**Dark Web:** An unregulated network of unindexed web content where activity is made anonymous through a variety of encryption and routing techniques. To access, users need a special browser, most commonly Tor. 
+
+**Risk**: Organizational Risk, Risk Management, The Risk Equation, Risk Analysis Methods, Risk Response Techniques. 
+
 # Various Cyber Security Frameworks and Lifecycles
 
 ### The OSINT Framework  
